@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0; 
+    }
+body{
+    background-color: #007065;
+}
+.tree{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+  .tree-1 {
+         margin-left: 50px;
+         background-color: transparent;
+         height: 0px;
+         width: 0px;
+         border-radius: 0px;
+         border-style: solid;
+         border-color: transparent;
+         border-width: 50px;
+         border-bottom-color: #00a79d;
+         margin-bottom: -119px;
+     }
+     .tree-2 {
+         margin-left: 50px;
+         background-color: transparent;
+         height: 0px;
+         width: 0px;
+         border-radius: 0px;
+         border-style: solid;
+         border-color: transparent;
+         border-width: 50px;
+         border-bottom-color: #f5c181;
+     }
+     .tree-3 {
+         margin-left: 50px;
+         background-color: transparent;
+         height: 0px;
+         width: 0px;
+         border-radius: 0px;
+         border-style: solid;
+         border-color: transparent;
+         border-width: 50px;
+         border-bottom-color: #ffeecf;
+         margin-top: -115px;
+     }
